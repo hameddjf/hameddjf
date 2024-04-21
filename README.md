@@ -12,12 +12,28 @@
 <hr style="margin-top: 20px; margin-bottom: 20px; border: 0; border-top: 2px solid #ccc;"/>
 <h2 align="center"><strong></strong> Hi i'm Python & Django Backend Developer </strong></h2>
 <ul>
-<li>🔭 I’m currently working on ...</li>
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
+<li>🔭 I’m currently working on enhancing my skills in Django .</li>
+<li>🌱 I’m currently learning more about asyncio , Docker & Django REST framework.</li>
+<li>👯 I’m looking to collaborate on Django projects</li>
+<li>🤔 I’m looking for help with advanced Docker deployment strategies.</li>
 </ul>
+
+
+### Languages and Tools:
+- Python
+- Django
+- Docker
+- HTML/CSS/JavaScript
+- Django REST framework
+- asyncio
+- Unit Testing
+
+<!-- Optional badges for languages and tools -->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-58A6FF?style=flat&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
