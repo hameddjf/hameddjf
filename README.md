@@ -23,16 +23,14 @@
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/-Django%20REST%20framework-58A6FF?style=flat&logo=django&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/-Pyrogram-3775A9?style=flat&logo=Python&logoColor=white" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="40" />
+  <!-- Add other icons as needed -->
 </p>
