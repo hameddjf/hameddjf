@@ -11,7 +11,7 @@
 </p>
 <hr style="margin-top: 20px; margin-bottom: 20px; border: 0; border-top: 2px solid #ccc;"/>
 ### Hi i'm Python & Django Backend Developer
-<hr style="margin: 0; border: 0; border-top: solid #ccc;"/>
+<hr style="margin: 0; border: 0; border-top: #ccc;"/>
 <!--
 **hameddjf/hameddjf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
