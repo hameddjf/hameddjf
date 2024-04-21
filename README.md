@@ -45,5 +45,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Microsoft_SQL_Server_logo.svg" alt="SQL Server" height="40" />
   <!-- Postman -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" />
+  <!-- github -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="40" />
+  <!-- djangorest -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" alt="djangorest" height="40" />
   <!-- Add other icons as needed -->
 </p>
