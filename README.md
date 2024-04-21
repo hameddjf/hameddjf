@@ -1,5 +1,6 @@
-https://www.linkedin.com/in/hamed-moradi-aa8698304/
-
+<a href="https://www.linkedin.com/in/hamed-moradi-aa8698304/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn Badge">
+</a>
 ### Hi there 👋
 
 <!--
