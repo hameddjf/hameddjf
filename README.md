@@ -1,4 +1,15 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/hamed-moradi-aa8698304/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamed-moradi-aa8698304/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/BN2_hm">
+    <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:hameddjf33@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
+
 ### Hi there 👋
 
 <!--
