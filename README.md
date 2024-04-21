@@ -10,7 +10,7 @@
   </a>
 </p>
 <hr style="margin-top: 20px; margin-bottom: 20px; border: 0; border-top: 2px solid #ccc;"/>
-### Hi i'm Python & Django Backend Developer
+<p align="center"> Hi i'm Python & Django Backend Developer </p>
 <hr/>
 
 🔭 I’m currently working on ...
