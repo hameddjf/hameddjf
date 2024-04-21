@@ -21,7 +21,7 @@
 <hr style="margin-top: 20px; margin-bottom: 20px; border: 0; border-top: 2px solid #ccc;"/>
 
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 <p align="left">
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" />
