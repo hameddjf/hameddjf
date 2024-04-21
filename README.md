@@ -11,7 +11,7 @@
 </p>
 <hr style="margin-top: 20px; margin-bottom: 20px; border: 0; border-top: 2px solid #ccc;"/>
 ### Hi i'm Python & Django Backend Developer
-<hr #ccc;"/>
+<hr/>
 
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
