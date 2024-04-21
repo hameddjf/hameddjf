@@ -45,5 +45,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="40" />
   <!-- Postman -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" />
+  <!-- Swagger -->
+  <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWU-logo-clr.png" alt="Swagger" height="40" />
   <!-- Add other icons as needed -->
 </p>
